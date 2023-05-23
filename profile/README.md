@@ -1,6 +1,6 @@
 # 👨‍👩‍👧‍👦 아이코(ICO)
 
-<img src="../image/main.jpg" width="500" height="400">
+<img src="https://github.com/ico-d103/.github/blob/main/image/main.jpg" width="500" height="400">
 
 - SSAFY 8th PJT **Team D103**​ 🌞
 - 프로젝트 기간 : `2023.04.10` ~ `2023.05.19`
@@ -86,13 +86,13 @@
 
 ## :three:​ System Architecture
 
-![img](../image/system-architecture.png)
+![img](https://github.com/ico-d103/.github/blob/main/image/system-architecture.png)
 
 <br>
 
 ## :four:​ ERD
 
-![img](../image/erd.png)
+![img](https://github.com/ico-d103/.github/blob/main/image/erd.png)
 
 <br>
 
