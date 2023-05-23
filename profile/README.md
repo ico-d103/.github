@@ -1,6 +1,6 @@
 # 👨‍👩‍👧‍👦 아이코(ICO)
 
-<img src="https://github.com/ico-d103/.github/blob/main/image/main.jpg" width="500" height="400">
+<img src="https://github.com/ico-d103/ico/blob/main/image/main.jpg" width="500" height="400">
 
 - SSAFY 8th PJT **Team D103**​ 🌞
 - 프로젝트 기간 : `2023.04.10` ~ `2023.05.19`
@@ -23,7 +23,7 @@
 <br>
 
 ## ​:one: Introduction
-[1. 아이코(ICO) 시연 시나리오](https://github.com/ico-d103/.github/blob/main/exec/D103_ICO_%EC%8B%9C%EC%97%B0_%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4.pdf)
+[1. 아이코(ICO) 시연 시나리오](https://github.com/ico-d103/ico/blob/main/exec/D103_ICO_%EC%8B%9C%EC%97%B0_%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4.pdf)
 
 [2. 아이코(ICO) UCC 영상](https://youtu.be/-vTEErIri4U)
 
@@ -86,13 +86,13 @@
 
 ## :three:​ System Architecture
 
-![img](https://github.com/ico-d103/.github/blob/main/image/system-architecture.png)
+![img](https://github.com/ico-d103/ico/blob/main/image/system-architecture.png)
 
 <br>
 
 ## :four:​ ERD
 
-![img](https://github.com/ico-d103/.github/blob/main/image/erd.png)
+![img](https://github.com/ico-d103/ico/blob/main/image/erd.png)
 
 <br>
 
