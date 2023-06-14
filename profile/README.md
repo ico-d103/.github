@@ -87,7 +87,7 @@
 
 ## :three:​ System Architecture
 
-![img](https://github.com/ico-d103/ico/blob/main/image/system-architecture.png)
+![img](https://github.com/ico-d103/ico/blob/main/image/system_architecture.png)
 
 <br>
 
