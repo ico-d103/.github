@@ -3,7 +3,7 @@
 <img src="https://github.com/ico-d103/ico/blob/main/image/main.jpg" width="500" height="400">
 
 - SSAFY 8th PJT **Team D103**​ 🌞
-- 프로젝트 기간 : `2023.04.10` ~ `2023.05.19`
+- 프로젝트 기간 : `2023.04.10` ~ `현재`
 - 구성원 : 강교철, 김동주, 변윤경, 사공지은, 서재건, 오민준  
 - 팀 노션 : <a href="" target="_blank">👉 아이코(ICO) Notion 👈</a>
 
