@@ -27,6 +27,8 @@
 
 [2. 아이코(ICO) UCC 영상](https://youtu.be/-vTEErIri4U)
 
+[3. 아이코(ICO) 포팅 매뉴얼](https://github.com/ico-d103/ico/blob/main/exec/%ED%8F%AC%ED%8C%85_%EB%A7%A4%EB%89%B4%EC%96%BC.pdf)
+
 <br>
 
 ## ​:two:​ Tech Stack
